@@ -770,7 +770,7 @@ a {
   padding-top: 30px;
   padding-bottom: 30px;
   position: relative;
-  background-color: #ffffff;
+  background-color: #ffe161;
 }
 .cid-s8zF5lWFAb .card .card-header {
   background-color: transparent;
@@ -792,6 +792,9 @@ a {
   font-family: 'Moririse2' !important;
   font-size: 1.4rem !important;
   color: #6592e6;
+}
+.cid-s8zF5lWFAb H3 {
+  color: #22a5e5;
 }
 .cid-s8zTFST7jQ {
   padding-top: 0rem;
